@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<scroll-view class="scrollview" scroll-y type="list">
+  <view class="top">
+    <view class="user-img">
+      <image src="/images/tomcat.png" />
+    </view>
+  </view>
+  <view class="menu">
+    <view class="item">姓名：小丽</view>
+    <view class="item">年龄：20</view>
+    <view class="item">性别：女</view>
+    <view class="item">特长：小丽</view>
+    <view class="item">爱好：小丽</view>
+  </view>
+</scroll-view>
